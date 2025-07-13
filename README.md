@@ -1,2 +1,3 @@
 # Basic_Calculator
-Basic calculator created using python. work with basic arithmetic operations
+This calculator includes all basic arithmetic operations such as addition, subtraction, multiplication, and division. It supports both mouse interaction and full keyboard input, including number keys, operators, Enter for evaluation, Backspace for correction, and Escape to clear. The layout is fully responsive, automatically adjusting to different window sizes using grid configuration. A modern, colorful UI design enhances the user experience with custom button colors, active highlights, and error handling that displays user-friendly messages for invalid expressions.
+<img width="536" height="442" alt="Screenshot 2025-07-13 151739" src="https://github.com/user-attachments/assets/1ef87c2f-b1b8-4a25-91a0-b0bf9b82cf4f" />
